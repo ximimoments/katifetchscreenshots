@@ -27,3 +27,6 @@
 
 ## Katifetch On Debian trixie (13 testing):
 ![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetchhardwarerealdb2.png)
+
+## Katifetch On Ubuntu 24.04 LTS:
+![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetchhardwarerealdb3.png)
