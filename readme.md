@@ -33,3 +33,8 @@
 
 ## Katifetch On Fedora 40 Workstation:
 ![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetchhardwarerealdb4.png)
+
+# Katifetch on my HP Pavilion x360 Convertible
+
+## Katifetch On Fedora 42 Workstation:
+![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetchhardwarerealhp.png)
