@@ -30,3 +30,6 @@
 
 ## Katifetch On Ubuntu 24.04 LTS:
 ![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetchhardwarerealdb3.png)
+
+## Katifetch On Fedora 40 Workstation:
+![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetchhardwarerealdb4.png)
