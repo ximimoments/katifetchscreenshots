@@ -1,4 +1,26 @@
 # Katifetch screenshots collection
 
-## Katifetch On fedora 42 iot:
+# katifetch on my VM
+
+## Katifetch On Fedora 42 iot:
 ![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetchosvm1.png)
+
+## Katifetch On Fedora 41 Workstation:
+![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetchosvm2.png)
+
+## Katifetch On Fedora 40 Workstation:
+![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetchosvm3.png)
+
+## Katifetch On Fedora 42 (Xfce):
+![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetchosvm4.png)
+
+## Katifetch On Fedora 42 Workstation:
+![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetchosvm5.png)
+
+## Katifetch Debian 12 with xfce:
+![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetchosvm6.png)
+
+# Katifetch on my dualboots
+
+## Katifetch On CachyOS:
+![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetchhardwarerealdb1.png)
