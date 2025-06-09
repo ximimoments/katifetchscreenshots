@@ -43,3 +43,11 @@
 
 ## Katifetch On Windows 11
 ![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetchonwindows.png)
+
+# Katifetch On my old screenshots
+
+## Katifetch On Fedora 42 Workstation
+![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetch.png)
+
+## Katifetch On Fedora 42 Silverblue
+![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetchv.png)
