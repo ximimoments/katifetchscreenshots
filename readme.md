@@ -1,1 +1,1 @@
-# Katifetch screenshots
+# Katifetch screenshots collection
