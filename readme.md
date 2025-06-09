@@ -17,7 +17,7 @@
 ## Katifetch On Fedora 42 Workstation:
 ![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetchosvm5.png)
 
-## Katifetch Debian 12 with xfce:
+## Katifetch On Debian 12 with xfce:
 ![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetchosvm6.png)
 
 # Katifetch on my dualboots (my real pc)
@@ -42,3 +42,4 @@
 # Katifetch On Windows
 
 ## Katifetch On Windows 11
+![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetchonwindows.png)
