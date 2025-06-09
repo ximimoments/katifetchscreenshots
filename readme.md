@@ -20,7 +20,10 @@
 ## Katifetch Debian 12 with xfce:
 ![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetchosvm6.png)
 
-# Katifetch on my dualboots
+# Katifetch on my dualboots (my real pc)
 
 ## Katifetch On CachyOS:
 ![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetchhardwarerealdb1.png)
+
+## Katifetch On Debian trixie (13 testing):
+![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetchhardwarerealdb2.png)
