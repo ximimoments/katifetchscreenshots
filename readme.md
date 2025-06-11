@@ -42,11 +42,16 @@
 ## Katifetch On Ubuntu 24.04 LTS MATE:
 ![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetchhp2.png)
 
+## Katifetch On Windows 10 Enterprise Ltsc Evaluation 2021
+![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetchonwindows10enterpriseltscevaluation2021.PNG)
 
 # Katifetch On Windows
 
 ## Katifetch On Windows 11:
 ![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetchonwindows.png)
+
+## Katifetch On Windows 10 Enterprise Ltsc Evaluation 2021
+![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetchonwindows10enterpriseltscevaluation2021.PNG)
 
 # Katifetch On my old screenshots
 
