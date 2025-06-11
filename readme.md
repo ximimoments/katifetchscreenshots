@@ -39,7 +39,7 @@
 ## Katifetch On Fedora 42 Workstation:
 ![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetchhardwarerealhp.png)
 
-## Katifetch On Ubuntu 24.04 MATE:
+## Katifetch On Ubuntu 24.04 LTS MATE:
 ![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetchhp2.png)
 
 
