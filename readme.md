@@ -63,5 +63,5 @@
 
 # Katifetch On WSL:
 
-## Katifetch on Ubuntu 24.04 LTS WSL On Windows 10 Enterprise Ltsc Evaluation 2021:
+## Katifetch On Ubuntu 24.04 LTS WSL On Windows 10 Enterprise Ltsc Evaluation 2021:
 ![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetchwsl.PNG)
