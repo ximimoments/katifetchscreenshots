@@ -86,7 +86,7 @@
 # Katifetch On MacOS
 
 ## Katifetch On MacOS Monterey:
-![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/macosmonterey.jpg)
+<img src="https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/macosmonterey.jpg" width="300" />
 
 ### collab:
-<img src="https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/collab.jpg" width="300" />
+<img src="https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/collab.png" width="300" />
