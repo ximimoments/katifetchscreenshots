@@ -74,6 +74,11 @@
 
 # Katifetch On Proot-Distro:
 
-## Difference of katifetch for android and katifetch for proot-distro
+## Difference of katifetch for android and katifetch for proot-distro:
 <img src="https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/idka.jpg" width="300" />
 
+## Katifetch on Void Linux proot-distro:
+<img src="https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/ssad1.jpg" width="300" />
+
+## Katifetch on Pardus Linux 23 proot-distro:
+<img src="https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/ssad2.jpg" width="300" />
