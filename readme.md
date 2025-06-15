@@ -1,6 +1,6 @@
 # Katifetch screenshots collection
 
-# katifetch on my VM
+# katifetch on my VMS
 
 ## Katifetch On Fedora 42 iot:
 ![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetchosvm1.png)
