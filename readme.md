@@ -72,7 +72,7 @@
 ## Katifetch On OpenSuse 15.6 Leap WSL On Windows 10 Enterprise Ltsc Evaluation 2021:
 ![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/aeiou.PNG)
 
-# Katifetch On Proot-Distro:
+# Katifetch On Proot-Distro
 
 ## Difference of katifetch for android and katifetch for proot-distro:
 <img src="https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/idka.jpg" width="300" />
@@ -85,5 +85,8 @@
 
 # Katifetch On MacOS
 
-## Katifetch On MacOS Monterey
-<img src="https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/macosmonterey.jpg" width="300" />
+## Katifetch On MacOS Monterey:
+![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/macosmonterey.jpg)
+
+### collab:
+<img src="https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/collab.jpg" width="300" />
