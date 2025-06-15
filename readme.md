@@ -65,3 +65,6 @@
 
 ## Katifetch On Ubuntu 24.04 LTS WSL On Windows 10 Enterprise Ltsc Evaluation 2021:
 ![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetchwsl.PNG)
+
+## Katifetch On OpenSuse 15.6 Leap WSL On Windows 10 Enterprise Ltsc Evaluation 2021:
+![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/aeiou.PNG)
