@@ -75,5 +75,5 @@
 # Katifetch On Proot-Distro:
 
 ## Difference of katifetch for android and katifetch for proot-distro
-![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/idka.jpg)
+<img src="https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/idka.jpg" width="300" />
 
