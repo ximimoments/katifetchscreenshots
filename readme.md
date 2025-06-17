@@ -48,6 +48,9 @@
 ## Katifetch On Ubuntu 22.04 LTS:
 ![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/xd.png)
 
+## Katifetch On Debian 12 (bookworm):
+![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/xd.png)
+
 # Katifetch On Windows
 
 ## Katifetch On Windows 11:
