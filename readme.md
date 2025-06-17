@@ -45,6 +45,9 @@
 ## Katifetch On Windows 10 Enterprise Ltsc Evaluation 2021:
 ![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetchonwindows10enterpriseltscevaluation2021.PNG)
 
+## Katifetch On Ubuntu 22.04 LTS:
+![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/xd.png)
+
 # Katifetch On Windows
 
 ## Katifetch On Windows 11:
