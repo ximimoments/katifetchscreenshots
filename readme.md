@@ -49,7 +49,7 @@
 ![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/xd.png)
 
 ## Katifetch On Debian 12 (bookworm):
-![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/xd.png)
+![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/zzz.png)
 
 # Katifetch On Windows
 
