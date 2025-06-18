@@ -4,8 +4,6 @@
 
 [![Katifetch Logo](ssssaa.png)&nbsp;Katifetch](https://github.com/ximimoments/katifetch)
 
-</a>
-
 # katifetch on my VMS
 
 ## Katifetch On Fedora 42 iot:
