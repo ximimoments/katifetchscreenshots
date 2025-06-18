@@ -1,7 +1,8 @@
 # Katifetch screenshots collection
 
 # Katifetch website official:
-https://github.com/ximimoments/katifetch
+
+[![Katifetch Logo](ssssaa.png)](https://github.com/ximimoments/katifetch)
 
 # katifetch on my VMS
 
