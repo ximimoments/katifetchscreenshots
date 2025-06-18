@@ -2,9 +2,8 @@
 
 # Katifetch website official:
 
-<a href="https://github.com/ximimoments/katifetch" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit;">
-  <img src="ssssaa.png" alt="Katifetch Logo" style="vertical-align:middle;" />
-  <span style="margin-left: 8px; vertical-align:middle;">Katifetch</span>
+[![Katifetch Logo](ssssaa.png)&nbsp;Katifetch](https://github.com/ximimoments/katifetch)
+
 </a>
 
 # katifetch on my VMS
