@@ -2,7 +2,7 @@
 
 # Katifetch website official:
 
-[![Katifetch Logo](ssssaa.png)](https://github.com/ximimoments/katifetch)
+[![Katifetch Logo](ssssaa.png)](https://github.com/ximimoments/katifetch) Katifetch
 
 # katifetch on my VMS
 
