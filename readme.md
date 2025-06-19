@@ -102,3 +102,10 @@ https://github.com/ximimoments/katifetch
 
 ### collab:
 <img src="https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/collab.png" width="500" />
+
+
+# Katifetch for windows 10 edition
+
+## Katifetch on Windows 10 Enterprise Ltsc Evaluation 2021:
+
+![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/uuo.PNG)
