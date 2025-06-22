@@ -110,6 +110,12 @@ https://github.com/ximimoments/katifetch
 
 ![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/uuo.PNG)
 
+# Katifetch for ubuntu 10.04 LTS:
+
+## Katifetch on Ubuntu 10.04 LTS:
+
+![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/kkk.png)
+
 # katifetch from the users who installed it:
 
 ## Katifetch on debian 13 testing:
