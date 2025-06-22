@@ -115,3 +115,7 @@ https://github.com/ximimoments/katifetch
 ## Katifetch on debian 13 testing:
 
 ![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/image.png)
+
+## Katifetch on Macos 15 sequoia of the user: gnuwood
+
+![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetchonmacos15sequoia.png)
