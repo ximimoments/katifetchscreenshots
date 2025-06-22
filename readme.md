@@ -109,3 +109,9 @@ https://github.com/ximimoments/katifetch
 ## Katifetch on Windows 10 Enterprise Ltsc Evaluation 2021:
 
 ![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/uuo.PNG)
+
+# katifetch from the users who installed it:
+
+## Katifetch on debian 13 testing:
+
+![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/image.png)
