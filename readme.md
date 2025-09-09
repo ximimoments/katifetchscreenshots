@@ -118,14 +118,17 @@ https://github.com/ximimoments/katifetch
 
 # katifetch from the users who installed it:
 
+## User of Brazil 
 ## Katifetch on debian 13 testing:
 
 ![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/image.png)
 
+## User of Japan
 ## Katifetch on Macos 15 sequoia of the user: gnuwood
 
 ![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetchonmacos15sequoia.png)
 
+## User of Spain
 ## Katifetch on Fedora 42 Kde Desktop of the user: antsoftware_21
 
  <img width="1920" height="1080" alt="katifetchonfedora42kdedesktop" src="https://github.com/user-attachments/assets/8d00b268-6cf2-4340-8429-6bc863204046" />
