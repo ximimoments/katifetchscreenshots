@@ -26,6 +26,10 @@ https://github.com/ximimoments/katifetch
 ## Katifetch On Debian 12 with xfce:
 ![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetchosvm6.png)
 
+## Katifetch On Ubuntu 23.04
+<img width="1366" height="768" alt="Screenshot from 2025-11-01 16-28-08" src="https://github.com/user-attachments/assets/14fa2764-e8cb-4088-9497-dd5d2c1af995" />
+
+
 # Katifetch on my dualboots (my real pc)
 
 ## Katifetch On CachyOS:
