@@ -61,6 +61,9 @@ https://github.com/ximimoments/katifetch
 ## Katifetch On Debian 12 (bookworm):
 ![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/zzz.png)
 
+## Katifetch On Alpine Linux Edge
+<img width="1920" height="1080" alt="Screenshot From 2025-12-07 16-36-12" src="https://github.com/user-attachments/assets/8871a8d8-89e5-4bba-8379-be2006d7838f" />
+
 # Katifetch On Windows
 
 ## Katifetch On Windows 11:
