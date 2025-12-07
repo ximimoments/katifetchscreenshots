@@ -99,6 +99,9 @@ https://github.com/ximimoments/katifetch
 ## Katifetch On Pardus Linux 23 proot-distro:
 <img src="https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/ssad2.jpg" width="300" />
 
+## Katifetch On Alpine Linux with VNC (And Windowmaker the DE)
+<img width="1920" height="1200" alt="Screenshot_20251207-101543" src="https://github.com/user-attachments/assets/9f225aeb-9d34-4cc7-8d8f-74ab2c985ba6" />
+
 # Katifetch On MacOS
 
 ## Katifetch On MacOS Monterey:
