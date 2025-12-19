@@ -126,7 +126,7 @@ https://github.com/ximimoments/katifetch
 
 ![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/kkk.png)
 
-## Katifetch on Ubuntu lucid (development branch) And Ubuntu 10.04
+## Katifetch on Ubuntu lucid (development branch) And Ubuntu 10.04 LTS
 
 <img width="1919" height="1079" alt="capture_251219_114317" src="https://github.com/user-attachments/assets/61bcae11-9439-4b42-81bd-9fc78888b4a6" />
 
