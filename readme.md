@@ -97,6 +97,11 @@ https://github.com/ximimoments/katifetch
 ## Katifetch On OpenSuse 15.6 Leap WSL On Windows 10 Enterprise Ltsc Evaluation 2021:
 ![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/aeiou.PNG)
 
+# Katifetch On Ceibal Wezen 2023
+
+## Katifetch On Rocky Linux 9.7
+<img width="1366" height="768" alt="imagen" src="https://github.com/user-attachments/assets/ef27c45f-3341-40a7-ad89-3ba4680230d4" />
+
 # Katifetch On Proot-Distro
 
 ## Difference of katifetch for android and katifetch for proot-distro:
