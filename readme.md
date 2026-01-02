@@ -71,6 +71,7 @@ https://github.com/ximimoments/katifetch
 <img width="1920" height="1080" alt="Screenshot From 2025-12-07 16-36-12" src="https://github.com/user-attachments/assets/8871a8d8-89e5-4bba-8379-be2006d7838f" />
 
 ## Katifetch On Chimera Linux
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9d4364c0-f7a1-493d-98b1-5163cec8865b" />
 
 # Katifetch On Windows
 
