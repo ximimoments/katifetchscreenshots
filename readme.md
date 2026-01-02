@@ -29,6 +29,12 @@ https://github.com/ximimoments/katifetch
 ## Katifetch On Ubuntu 23.04
 <img width="1366" height="768" alt="Screenshot from 2025-11-01 16-28-08" src="https://github.com/user-attachments/assets/14fa2764-e8cb-4088-9497-dd5d2c1af995" />
 
+## Katifetch On Slackware 15.0
+<img width="1920" height="1080" alt="Captura desde 2026-01-02 12-27-55" src="https://github.com/user-attachments/assets/3b586ae1-dc62-4fd7-9280-5d0c72b56d07" />
+
+## Katifetch On OpenBSD 7.8
+<img width="1446" height="1080" alt="Captura desde 2026-01-02 15-28-16" src="https://github.com/user-attachments/assets/874d96bc-dd6e-4a17-b902-f43f6e82981e" />
+
 
 # Katifetch on my dualboots (my real pc)
 
