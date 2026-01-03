@@ -33,8 +33,7 @@ https://github.com/ximimoments/katifetch
 <img width="1920" height="1080" alt="Captura desde 2026-01-02 12-27-55" src="https://github.com/user-attachments/assets/3b586ae1-dc62-4fd7-9280-5d0c72b56d07" />
 
 ## Katifetch On OpenBSD 7.8
-<img width="1446" height="1080" alt="Captura desde 2026-01-02 15-28-16" src="https://github.com/user-attachments/assets/874d96bc-dd6e-4a17-b902-f43f6e82981e" />
-
+<img width="1280" height="720" alt="Screenshot_openbsddd_2026-01-02_23:56:24" src="https://github.com/user-attachments/assets/e53c918e-7007-43cc-a861-74dbe6c2c96d" />
 
 # Katifetch on my dualboots (my real pc)
 
