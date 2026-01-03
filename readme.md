@@ -2,7 +2,7 @@
 
 # Katifetch website official:
 
-![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/ssssaa.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5cc572ee-242f-4cdf-8212-78e8a87d6b73" />
 
 https://github.com/ximimoments/katifetch
 
