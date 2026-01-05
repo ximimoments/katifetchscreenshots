@@ -72,6 +72,9 @@ https://github.com/ximimoments/katifetch
 ## Katifetch On Chimera Linux
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9d4364c0-f7a1-493d-98b1-5163cec8865b" />
 
+## Katifetch On Void Linux
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9cfb8119-5760-4ad0-8ca3-eb459271d417" />
+
 # Katifetch On Windows
 
 ## Katifetch On Windows 11:
