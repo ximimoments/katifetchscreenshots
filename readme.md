@@ -6,6 +6,11 @@
 
 https://github.com/ximimoments/katifetch
 
+# Katifetch for unreleased editions
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/afb2ad16-64d3-4be7-a564-70275d25fabf" />
+
+https://github.com/ximimoments/katifetch-for-unreleased-editions
+
 # katifetch on my VMS
 
 ## Katifetch On Fedora 42 iot:
