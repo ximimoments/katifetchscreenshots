@@ -35,6 +35,9 @@ https://github.com/ximimoments/katifetch
 ## Katifetch On OpenBSD 7.8
 <img width="1280" height="720" alt="Screenshot_openbsddd_2026-01-02_23:56:24" src="https://github.com/user-attachments/assets/e53c918e-7007-43cc-a861-74dbe6c2c96d" />
 
+## Katifetch On Linux Mint 22.2 An LMDE 7
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f3007146-cddc-4b44-8b1a-23daa28aedf6" />
+
 # Katifetch on my dualboots (my real pc)
 
 ## Katifetch On CachyOS:
