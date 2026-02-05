@@ -144,7 +144,7 @@ https://github.com/ximimoments/katifetch-for-unreleased-editions
 
 ## Community Limbo VM's with katifetch
 
-#
+
 
 # Katifetch On My UTM Se VM'S/UTM Se Community
 ## My VM's
@@ -152,9 +152,9 @@ https://github.com/ximimoments/katifetch-for-unreleased-editions
 ### If I had an iPhone I could set up the VMs and Katifetch to show you guys, but I don't even have an iPhone.
 :(
 
-# UTM Se Community VM's with katifetch
+## UTM Se Community VM's with katifetch
 
-#
+
 
 # Katifetch for windows 10 edition
 
