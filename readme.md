@@ -115,6 +115,17 @@ https://github.com/ximimoments/katifetch-for-unreleased-editions
 ## Katifetch On Rocky Linux 9.7
 <img width="1366" height="768" alt="imagen" src="https://github.com/user-attachments/assets/ef27c45f-3341-40a7-ad89-3ba4680230d4" />
 
+# Katifetch On My Termux's Devices/Termux's Community
+
+## Katifetch On My Galaxy A15 
+![Uploading Screenshot_20260213_182344_Termux.jpg…]()
+
+## Katifetch On My Galaxy A15 with xfce
+### (Vertical)
+![Uploading Screenshot_20260213_182531_TermuxX11.jpg…]()
+### (Horizonta)
+![Uploading Screenshot_20260213_182743_TermuxX11.jpg…]()
+
 # Katifetch On Proot-Distro
 
 ## Difference of katifetch for android and katifetch for proot-distro:
