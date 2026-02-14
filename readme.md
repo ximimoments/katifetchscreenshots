@@ -43,6 +43,15 @@ https://github.com/ximimoments/katifetch-for-unreleased-editions
 ## Katifetch On Linux Mint 22.2 An LMDE 7
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f3007146-cddc-4b44-8b1a-23daa28aedf6" />
 
+# Katifetch Edition on dev
+
+## Katifetch On Haiku os
+<img width="1920" height="1080" alt="545161779-443fa1be-4a54-4452-824c-dcc21bcff597" src="https://github.com/user-attachments/assets/d82fd97d-713b-4d55-956e-6aa295dfbec7" />
+
+## Katifetch On ReactOS
+<img width="1920" height="1080" alt="532564655-09f1ff42-bd05-4c74-bf2a-a76882cf3075" src="https://github.com/user-attachments/assets/f1875bbe-9adb-4d09-9f80-48a5e491c091" />
+
+
 # Katifetch on my dualboots (my real pc)
 
 ## Katifetch On CachyOS:
