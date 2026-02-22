@@ -94,8 +94,11 @@ https://github.com/ximimoments/katifetch-for-unreleased-editions
 
 # Katifetch On Windows
 
-## Katifetch On Windows 11:
+## Katifetch On Windows 11 Maybe 24h2?:
 ![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetchonwindows.png)
+
+## Katifetch On Windows 11 25h2 
+<img width="1919" height="1079" alt="Captura de pantalla 2026-02-22 171557" src="https://github.com/user-attachments/assets/d751ab37-9a22-4ccc-84b0-1319073b6717" />
 
 ## Katifetch On Windows 10 Enterprise Ltsc Evaluation 2021:
 ![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetchonwindows10enterpriseltscevaluation2021.PNG)
