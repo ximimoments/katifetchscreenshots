@@ -166,7 +166,6 @@ https://github.com/ximimoments/katifetch-for-unreleased-editions
 ## Community Limbo VM's with katifetch
 
 
-
 # Katifetch On My UTM Se VM'S/UTM Se Community
 ## My VM's
 
@@ -176,6 +175,11 @@ https://github.com/ximimoments/katifetch-for-unreleased-editions
 ## UTM Se Community VM's with katifetch
 
 
+# Katifetch On my Vectras VM's/Vectra VM Community
+
+## My VM's
+
+# Vectras VM Community VM'S With Katifetch
 
 # Katifetch for windows 10 edition
 
