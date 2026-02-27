@@ -92,6 +92,9 @@ https://github.com/ximimoments/katifetch-for-unreleased-editions
 ## Katifetch On Void Linux
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9cfb8119-5760-4ad0-8ca3-eb459271d417" />
 
+## Katifetch on Haiku Beta 5 (Real Hardware no VM)
+<img width="1920" height="1080" alt="screenshot2" src="https://github.com/user-attachments/assets/9059a570-056b-4475-805c-e6de4d3b1b1b" />
+
 # Katifetch On Windows
 
 ## Katifetch On Windows 11 Maybe 24h2?:
