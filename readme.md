@@ -132,7 +132,7 @@ https://github.com/ximimoments/katifetch-for-unreleased-editions
 
 # Katifetch On My Termux's Devices/Termux's Community
 
-## Katifetch On My Galaxy A15
+## Katifetch On My Galaxy A15 5g
 <img src="https://github.com/user-attachments/assets/9a6a46d5-f119-4b31-9310-24e61c258396" width="300">
 
 ## Katifetch On My Galaxy A15 with xfce
@@ -141,6 +141,10 @@ https://github.com/ximimoments/katifetch-for-unreleased-editions
 
 ### (Horizontal)
 <img src="https://github.com/user-attachments/assets/0e288596-9c09-4439-aa83-08e3b1d0b119" width="900">
+
+## Katifetch On My Galaxy A15 5g With LineageOS 22 GSI
+
+<img width="1080" height="2340" alt="Screenshot_20260327-155941_Termux" src="https://github.com/user-attachments/assets/6549c356-6f67-469a-8105-5a3a4f7aaf55" />
 
 # Katifetch On Proot-Distro
 
