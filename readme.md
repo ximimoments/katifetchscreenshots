@@ -143,8 +143,7 @@ https://github.com/ximimoments/katifetch-for-unreleased-editions
 <img src="https://github.com/user-attachments/assets/0e288596-9c09-4439-aa83-08e3b1d0b119" width="900">
 
 ## Katifetch On My Galaxy A15 5g With LineageOS 22 GSI
-
-<img width="1080" height="2340" alt="Screenshot_20260327-155941_Termux" src="https://github.com/user-attachments/assets/6549c356-6f67-469a-8105-5a3a4f7aaf55" />
+<img src="https://github.com/user-attachments/assets/6549c356-6f67-469a-8105-5a3a4f7aaf55" width="300">
 
 # Katifetch On Proot-Distro
 
