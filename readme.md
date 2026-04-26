@@ -66,6 +66,9 @@ https://github.com/ximimoments/katifetch-for-unreleased-editions
 ## Katifetch On Fedora 40 Workstation:
 ![Screenshot](https://raw.githubusercontent.com/ximimoments/katifetchscreenshots/main/katifetchoscollectionscreenshots/katifetchhardwarerealdb4.png)
 
+## Katifetch On Ubuntu 26.04 LTS
+<img width="1920" height="1080" alt="Captura desde 2026-04-25 22-40-38" src="https://github.com/user-attachments/assets/66a56d15-37df-4e2e-ba9d-fa9701c2798b" />
+
 # Katifetch on my HP Pavilion x360 Convertible
 
 ## Katifetch On Fedora 42 Workstation:
